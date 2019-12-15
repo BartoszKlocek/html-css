@@ -1,11 +1,8 @@
-zadanie2
-##Rozbudujmy „Hello World” Dokument zgodny z HTML5. 
-Niech zawiera: 
+Zadanie 3
+##Rozbudujmy „Hello World” 
 
-Tytuł strony 
+Popraw plik z zadania 2, tak aby zawierał dodatkowo: 
 
-W sekcji meta, słowa kluczowe oraz autora 
+element span z atrybutem style=”background-color: red”  
 
-Trzy różne nagłówki (h1 – h6) 
-
-Dwa akapity Tekst wyróżniony na różny sposoby
+oraz element div z atrybutem style=”background-color: green”
