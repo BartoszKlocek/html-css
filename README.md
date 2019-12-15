@@ -1,8 +1,10 @@
-Zadanie 3
-##Rozbudujmy „Hello World” 
+Zadanie 4
+##Nowa strona – „Zdjęcie z opisem”
 
-Popraw plik z zadania 2, tak aby zawierał dodatkowo: 
+Wymagania:
 
-element span z atrybutem style=”background-color: red”  
+Dostęp przez link za strony „Hello World” 
 
-oraz element div z atrybutem style=”background-color: green”
+Wstaw zdjęcie
+
+Wypunktuj co jest na zdjęciu
