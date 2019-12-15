@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Formularz kontaktowy</title>
+</head>
+<body>
+<a href="index.html">Home</a>
+<!--methoda GET wysyla jawne dane,a w methodzie POST nie jawnie-->
+<!--GETem nie mozna wyslac loginu ani hasla bo wszystko widac-->
+<form action="index.html" method="get">
+    <label>Imie:<input type="text" name="first name" placeholder="imie"></label><br>
+    <label>Nazwisko:<input type="text" name="last name" placeholder="nazwisko"></label><br>
+    <label>Plec<select name="gender"><br>
+        <option>Kobieta</option>
+        <option>Mezczyzna</option>
+    </select><br>
+
+        <label>Wiadomosc:
+            <textarea name="message">Dzień dobry!</textarea>
+        </label> <br>
+        <button type="submit">Wyslij</button>
+        <button type="reset">Wyczysc</button>
+
+
+</form>
+
+
+</body>
+</html>
