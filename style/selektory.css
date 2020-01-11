@@ -1,0 +1,12 @@
+table{
+    border: 1px solid;
+    width: 80%;
+}
+
+#identyfikator{
+    background-color: greenyellow;
+}
+
+.mojeKlasa{
+    color: aquamarine;
+}
