@@ -1,4 +1,8 @@
-Zadanie 12
-Napiszmy „Hello World”
-Wyświetl alert i wypisz tekst w konsoli przeglądarki
-Wykorzystać alert() oraz console.log()
+Zadanie 13
+
+Porównania zmiennych:
+1.Utwórz zmienna var1 = 1 oraz var2 = 1,
+a.porównaj je za pomocą operatora “==” oraz “===”.
+
+2.Utwórz zmienna var1 = 1 oraz var2 = “1”,
+a.porównaj je za pomocą operatora “==” oraz “===”.
