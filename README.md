@@ -1,8 +1,1 @@
-Zadanie 6
-##Nowa strona – „Strona kontaktowa”
-
-Wymagania:Dostęp z index.html 
-
-Formularz z polami na imię, nazwisko, wybór płci, elementem <textarea> i przyciskiem zatwierdzającym 
-
-Formularz powinien po zatwierdzeniu wrócić na stronę index.html
+Zadanie 10Poprawmy wygląd stron z ćwiczeń HTMLZmodyfikujmy wygląd linków dla „:hover”, „:visited”, „:active”.Zmieńmy pierwszą literę paragrafów oraz co drugi element listy
