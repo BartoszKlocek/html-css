@@ -49,13 +49,19 @@
 
 <!--</script>-->
 
-<button onclick="alertFunction()">Kliknij mnie
+<p id="foobar">Foo bar!</p>
 
-</button>
+<button onclick="swap()">Kliknij mnie </button>
 
 <script>
-    function alertFunction() {
-        alert("Test");
+    function swap() {
+        let elementById = document.getElementById("foobar");
+        if (elementById.innerHTML === "Foo bar!") {
+            elementById.innerHTML = "Bar foo!";
+            ;
+        } else {
+            elementById.innerText = "Foo bar!";
+        }
     }
 
 </script>
