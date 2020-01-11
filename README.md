@@ -1,1 +1,4 @@
-Zadanie 10Poprawmy wygląd stron z ćwiczeń HTMLZmodyfikujmy wygląd linków dla „:hover”, „:visited”, „:active”.Zmieńmy pierwszą literę paragrafów oraz co drugi element listy
+Zadanie 12
+Napiszmy „Hello World”
+Wyświetl alert i wypisz tekst w konsoli przeglądarki
+Wykorzystać alert() oraz console.log()
