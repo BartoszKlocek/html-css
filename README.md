@@ -1,4 +1,3 @@
-Zadanie 15
-Napisz stronę, która będzie zawierała tekst “Foo bar!” 
-w znaczniku <p> oraz button, po wciśnięciu którego  tekst wewnątrz znacznika zmieni wartość na “Bar foo!”.
-Po ponownym wciśnięciu buttonu tekst wewnątrz znacznika powinien zmienić wartość na “Foo bar!”.
+Zadanie 16
+Do strony z formularzem kontaktowym z zadania 6 dopisz walidator sprawdzający, 
+czy pole “firstName” zostało podane.
